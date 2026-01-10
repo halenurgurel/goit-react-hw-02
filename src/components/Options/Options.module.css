@@ -1,0 +1,24 @@
+.optionsContainer {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.button {
+  padding: 8px 16px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  transition: background-color 0.3s;
+  font-size: 16px;
+  color: #9e3b3b;
+}
+
+.button:hover {
+  background-color: #e2e2e2;
+}
+
+.resetBtn {
+  background-color: #ffcccc;
+}
