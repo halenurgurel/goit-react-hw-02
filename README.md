@@ -87,11 +87,11 @@ The project follows a modular directory structure for scalability:
 
 ## 📸 App Preview
 
-|              Default State              |            Good             |
+|            **Default State**            |          **Good**           |
 | :-------------------------------------: | :-------------------------: |
 | ![Default State](./src/img/default.png) | ![Good](./src/img/good.png) |
 
-|              Neutral              |            Bad            |
+|            **Neutral**            |          **Bad**          |
 | :-------------------------------: | :-----------------------: |
 | ![Neutral](./src/img/neutral.png) | ![Bad](./src/img/bad.png) |
 
