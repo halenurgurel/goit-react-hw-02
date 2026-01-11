@@ -83,6 +83,16 @@ The project follows a modular directory structure for scalability:
 
 ---
 
+---
+
+## 📸 App Preview
+
+|              Default State              |            Good             |              Neutral              |            Bad            |
+| :-------------------------------------: | :-------------------------: | :-------------------------------: | :-----------------------: |
+| ![Default State](./src/img/default.png) | ![Good](./src/img/good.png) | ![Neutral](./src/img/neutral.png) | ![Bad](./src/img/bad.png) |
+
+---
+
 ## 🚀 How to Run
 
 1. Clone the repository.
